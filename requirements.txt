@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+lxml
+pymongo
+python-dotenv
+pandas
+pydantic
+fastapi[standard]
+scikit-learn
+joblib
+sentence-transformers
