@@ -11,6 +11,8 @@ venv/
 # Environment variables
 .env
 .env.*
+frontend/.env
+frontend/.env.*
 
 # OS files
 .DS_Store
@@ -18,6 +20,9 @@ Thumbs.db
 
 # Logs
 *.log
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
 
 # VS Code
 .vscode/
@@ -26,3 +31,4 @@ Thumbs.db
 node_modules/
 dist/
 build/
+frontend/.vite/
