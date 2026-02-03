@@ -1,0 +1,112 @@
+[
+
+{
+  "id": "esoft",
+  "name": "ESOFT Metro Campus",
+  "type": "esoft",
+  "base_url": "https://esoft.lk",
+  "sitemap_url": "https://esoft.lk/post-sitemap.xml",
+  "course_url_pattern": "/"
+},
+{
+  "id": "sliit",
+  "name": "SLIIT",
+  "type": "sliit",
+  "base_url": "https://www.sliit.lk",
+  "sitemap_url": "https://www.sliit.lk/sitemap.xml",
+  "course_url_pattern": "/programmes/"
+},
+
+
+
+
+  {
+    "id": "nsbm",
+    "name": "NSBM Green University",
+    "type": "nsbm",
+    "base_url": "https://www.nsbm.ac.lk",
+    "sitemap_url": "https://www.nsbm.ac.lk/sitemap.xml",
+    "course_url_pattern": "/course/"
+  },
+
+  {
+    "id": "apiit",
+    "name": "APIIT Sri Lanka",
+    "type": "apiit",
+    "base_url": "https://apiit.lk",
+    "sitemap_url": "https://apiit.lk/courses-sitemap.xml",
+    "course_url_pattern": "/courses/"
+  },
+
+  {
+    "id": "cinec",
+    "name": "CINEC Campus",
+    "type": "cinec",
+    "base_url": "https://www.cinec.edu",
+    "sitemap_url": "https://www.cinec.edu/wp-sitemap-posts-courses-1.xml",
+    "course_url_pattern": "/courses/"
+  },
+
+  {
+    "id": "kiu",
+    "name": "KIU University",
+    "type": "kiu",
+    "base_url": "https://kiu.ac.lk",
+    "sitemap_url": "https://kiu.ac.lk/course-sitemap.xml",
+    "course_url_pattern": "/course/"
+  },
+  {
+  "id": "icbt",
+  "name": "ICBT Campus",
+  "type": "icbt",
+  "base_url": "https://icbt.lk",
+  "sitemap_url": "https://icbt.lk/wp-sitemap-posts-courses-1.xml",
+  "course_url_pattern": "/courses/"
+  },
+  {
+  "id": "sltc",
+  "name": "SLTC Research University",
+  "type": "sltc",
+  "base_url": "https://sltc.ac.lk",
+  "sitemap_url": "https://sltc.ac.lk/courses-sitemap.xml",
+  "course_url_pattern": "/courses/"
+  },
+  {
+  "id": "nibm",
+  "name": "National Institute of Business Management",
+  "type": "nibm",
+  "base_url": "https://nibm.lk",
+  "sitemap_url": "https://www.nibm.lk/sitemap-0.xml",
+  "course_url_pattern": "/course/"
+},
+{
+  "id": "horizon",
+  "name": "Horizon Campus",
+  "type": "horizon",
+  "base_url": "https://horizoncampus.edu.lk",
+  "sitemap_url": "https://horizoncampus.edu.lk/sitemap.xml"
+},
+{
+  "id": "bcas",
+  "name": "BCAS Campus",
+  "type": "bcas",
+  "base_url": "https://bcas.lk",
+  "sitemap_url": "https://bcas.lk/sitemap.xml",
+  "course_url_pattern": "/programme/"
+},
+{
+  "id": "iit",
+  "name": "Informatics Institute of Technology",
+  "type": "iit",
+  "base_url": "https://www.iit.ac.lk",
+  "sitemap_url": "https://www.iit.ac.lk/sitemap.xml",
+  "course_url_pattern": "/course/"
+},
+{
+  "id": "anc",
+  "name": "ANC Education",
+  "type": "anc",
+  "base_url": "https://ancedu.com",
+  "sitemap_url": "https://ancedu.com/page-sitemap.xml"
+}
+]
