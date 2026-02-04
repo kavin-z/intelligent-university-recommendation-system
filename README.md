@@ -14,32 +14,23 @@
 
 ---
 
-## 📸 Screenshots & Demo Video ✅
-Below are the screenshots and the demo video you provided (copied into `DOCS/media/`). They are embedded so they display clearly in this README.
+## 📸 Screenshots & Demo Video
 
-**Screenshots**
+### 🏠 Home Screen
+![Home Screen](DOCS/media/screenshots/home.png)
 
-- **Home screen**
+### 🎯 Course / Recommender
+![Recommender 1](DOCS/media/screenshots/course_recommender_1.png)
+![Recommender 2](DOCS/media/screenshots/course_recommender_2.png)
 
-  <img src="./DOCS/media/screenshots/home.png" alt="Home Screen" width="840" />
+### ➕ Extra Screenshots
+![Extra 1](DOCS/media/screenshots/extra_1.png)
+![Extra 2](DOCS/media/screenshots/extra_2.png)
 
-- **Course / Recommender (gallery)**
+### 🎥 Demo Video
+📌 **Video is not stored in the repository due to GitHub file size limits.**
 
-  <img src="./DOCS/media/screenshots/course_recommender_1.png" alt="Recommender 1" width="420" />
-  <img src="./DOCS/media/screenshots/course_recommender_2.png" alt="Recommender 2" width="420" />
-
-- **Extra screenshots**
-
-  <img src="./DOCS/media/screenshots/extra_1.png" alt="Extra 1" width="420" />
-  <img src="./DOCS/media/screenshots/extra_2.png" alt="Extra 2" width="420" />
-
-**Demo video**
-
-<!-- Use a clickable thumbnail that links to the local video file. Many renderers (including GitHub) don't reliably play local <video> tags inline, so we link directly. -->
-
-<a href="./DOCS/media/video/demo.mp4">
-  <img src="./DOCS/media/screenshots/home.png" alt="Play demo video (click to open)" width="840" />
-</a>
+👉 [Click here to watch the demo video](DOCS/media/video/demo.mp4)
 
 
 **Notes:**
