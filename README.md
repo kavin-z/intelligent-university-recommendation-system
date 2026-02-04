@@ -21,24 +21,30 @@ Below are the screenshots and the demo video you provided (copied into `DOCS/med
 
 - **Home screen**
 
-  ![Home Screen](DOCS/media/screenshots/home.png)
+  <img src="./DOCS/media/screenshots/home.png" alt="Home Screen" width="840" />
 
 - **Course / Recommender (gallery)**
 
-  ![Recommender 1](DOCS/media/screenshots/course_recommender_1.png)
-  ![Recommender 2](DOCS/media/screenshots/course_recommender_2.png)
+  <img src="./DOCS/media/screenshots/course_recommender_1.png" alt="Recommender 1" width="420" />
+  <img src="./DOCS/media/screenshots/course_recommender_2.png" alt="Recommender 2" width="420" />
 
 - **Extra screenshots**
 
-  ![Extra 1](DOCS/media/screenshots/extra_1.png)
-  ![Extra 2](DOCS/media/screenshots/extra_2.png)
+  <img src="./DOCS/media/screenshots/extra_1.png" alt="Extra 1" width="420" />
+  <img src="./DOCS/media/screenshots/extra_2.png" alt="Extra 2" width="420" />
 
 **Demo video**
 
-<video controls width="840">
-  <source src="DOCS/media/video/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<!-- Use a clickable thumbnail that links to the local video file. Many renderers (including GitHub) don't reliably play local <video> tags inline, so we link directly. -->
+
+<a href="./DOCS/media/video/demo.mp4">
+  <img src="./DOCS/media/screenshots/home.png" alt="Play demo video (click to open)" width="840" />
+</a>
+
+
+**Notes:**
+- If the images still appear as links in your editor preview, try opening the image file directly (right-click → "Open") to confirm it displays.  
+- GitHub's README rendering does not support inline playback of local videos; upload the demo to YouTube/Vimeo for inline web playback or provide a GIF thumbnail for quick previews.
 
 ---
 
