@@ -14,30 +14,53 @@
 
 ---
 
-## 📸 Screenshots & Demo Video
-Please upload your screenshots and demo video and place them inside the repository:
+## 📸 Screenshots & Demo Video ✅
+Below are the screenshots and the demo video you provided (copied into `DOCS/media/`). They are embedded so they display clearly in this README.
 
-- Screenshots: `DOCS/media/screenshots/` (example filenames: `home.png`, `universities.png`)
-- Demo video (local): `DOCS/media/video/demo.mp4` (or provide a YouTube/Vimeo link)
+**Screenshots**
 
-When you upload the files, tell me the exact filenames and I will update this README and commit the files.
-
-### Example embeds (will be updated with real files once provided)
-
-- Screenshot example:
+- **Home screen**
 
   ![Home Screen](DOCS/media/screenshots/home.png)
 
-- Embed local demo video (replace `demo.mp4` with your filename):
+- **Course / Recommender (gallery)**
 
-  <video controls width="720">
-    <source src="DOCS/media/video/demo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  ![Recommender 1](DOCS/media/screenshots/course_recommender_1.png)
+  ![Recommender 2](DOCS/media/screenshots/course_recommender_2.png)
 
-- External video link example (YouTube):
+- **Extra screenshots**
 
-  [Watch the demo](https://youtu.be/your_video_link)
+  ![Extra 1](DOCS/media/screenshots/extra_1.png)
+  ![Extra 2](DOCS/media/screenshots/extra_2.png)
+
+**Demo video**
+
+<video controls width="840">
+  <source src="DOCS/media/video/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
+
+## 🔧 Backend API URL
+- Interactive docs: http://127.0.0.1:8000/docs
+
+---
+
+## 🧭 AI Pipeline Architecture 🔬
+
+![AI Pipeline](DOCS/media/ai_pipeline.svg)
+
+**Overview:** Data is crawled from university websites and sitemaps, downloaded and parsed by per-university extractors, normalized and stored in MongoDB. Course text is encoded into embeddings (Sentence-BERT), which power the vector search used by the Recommender API. AI modules provide additional insights (career paths, skill gaps) that are returned with recommendations.
+
+---
+
+## 👨‍💻 Maintainer & Contact
+- **Name:** M. Kavin
+- **Degree:** BSc in Software Engineering
+- **University:** ICBT
+- **Email:** [mohanarajkavin@gmail.com](mailto:mohanarajkavin@gmail.com)
+- **GitHub:** https://github.com/kavin-z
 
 ---
 
